@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CyberSecure Academy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to CyberSecure Academy</h1>
+        <nav>
+            <ul>
+                <li><a href="#learn">Learn Ethical Hacking</a></li>
+                <li><a href="#tips">Cybersecurity Tips</a></li>
+                <li><a href="#resources">Resources</a></li>
+                <li><a href="#about">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="learn">
+        <h2>Learn Ethical Hacking</h2>
+        <p>Ethical hacking is the practice of legally breaking into computers and devices to test an organization’s defenses.</p>
+        <ul>
+            <li>Introduction to Ethical Hacking</li>
+            <li>Penetration Testing</li>
+            <li>Security Certifications</li>
+        </ul>
+    </section>
+
+    <section id="tips">
+        <h2>Cybersecurity Tips</h2>
+        <p>Stay safe online by following these simple cybersecurity tips:</p>
+        <ul>
+            <li>Use strong, unique passwords.</li>
+            <li>Enable two-factor authentication wherever possible.</li>
+            <li>Keep your software and systems up to date.</li>
+        </ul>
+    </section>
+
+    <section id="resources">
+        <h2>Resources</h2>
+        <p>Recommended resources for learning more about cybersecurity:</p>
+        <ul>
+            <li><a href="https://www.udemy.com">Udemy Courses</a></li>
+            <li><a href="https://www.coursera.org">Coursera Courses</a></li>
+        </ul>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>CyberSecure Academy is dedicated to providing the best resources and knowledge on ethical hacking and cybersecurity.</p>
+    </section>
+
+    <footer>
+        <p>Contact us at <a href="mailto:info@cybersecureacademy.com">info@cybersecureacademy.com</a></p>
+    </footer>
+</body>
+</html>
